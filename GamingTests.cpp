@@ -1,10 +1,8 @@
-//
-// Created by Ivo Georgiev on 11/22/15.
-//
 
 #include <iostream>
 #include <cassert>
 #include <regex>
+#include "Exceptions.h"
 
 #include "GamingTests.h"
 #include "Game.h"
